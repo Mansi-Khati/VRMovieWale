@@ -6,7 +6,7 @@ import {WebView} from 'react-native-webview';
 const VrTheatre = () => {
   return (
     <WebView
-      source={{uri: 'http://gyanratan.me/Unity-WebTheater/'}}
+      source={{uri: 'https://gyanratan.me/Recliner/'}}
       style={{flex: 1}}
     />
   );
